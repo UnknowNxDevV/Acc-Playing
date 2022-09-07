@@ -1,5 +1,8 @@
 const { Client, Collection } = require("discord.js");
 
+
+const config = ("config.json")
+
 const client = new Client({
   messageCacheLifetime: 60,
   fetchAllMembers: false,
