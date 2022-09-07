@@ -15,3 +15,5 @@ const client = new Client({
     "GUILDS",
     "GUILD_BANS", "GUILD_VOICE_STATES", "GUILD_MESSAGES", "GUILD_MESSAGE_REACTIONS"],
 });
+
+client.on('ready', async => {
