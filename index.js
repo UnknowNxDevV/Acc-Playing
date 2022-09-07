@@ -3,7 +3,7 @@ const { Client, Collection } = require("discord.js");
 
 const config = ("config.json")
 client.login("Token Bot")
-const Id Acount = ("config.json")
+const Id Account = ("config.json")
 
 
 
