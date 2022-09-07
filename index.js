@@ -20,6 +20,6 @@ client.on('ready', async () => { console.log(`The`,client.user.tag,`is Online`);
 
 client.on('ready', async () => {
 client.user.setPresence({status: "Idle" } )
-client.user.setActivity( {type: "PLAYING", url: "https://github.com/UnknowNxDevV"}, {name: "Under Development By Unknwon "} ) 
+client.user.setActivity( {type: "STREAMING", url: "https://github.com/UnknowNxDevV"}, {name: "Under Development By Unknwon "} ) 
 
    })
