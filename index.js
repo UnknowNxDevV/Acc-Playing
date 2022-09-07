@@ -2,8 +2,8 @@ const { Client, Collection } = require("discord.js");
 
 
 const config = ("config.json")
-client.login("Token Account")
-client.id user("Id Account")
+client.login("Token")
+client.id user("Id")
 
 
 
